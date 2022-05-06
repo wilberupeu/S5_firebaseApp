@@ -1,6 +1,6 @@
 package com.pe.app.s5_firebaseapp;
 
-import androidx.annotation.NonNull;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.firebase.database.DataSnapshot;
