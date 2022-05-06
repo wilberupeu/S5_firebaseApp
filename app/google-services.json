@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1041157906056",
+    "firebase_url": "https://upeujapps-default-rtdb.firebaseio.com",
+    "project_id": "upeujapps",
+    "storage_bucket": "upeujapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041157906056:android:fbbe4878032fe1310d893d",
+        "android_client_info": {
+          "package_name": "com.pe.app.s5_firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041157906056-la49q34dtt2f1epnkhpkr95g6g4g23lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYz1iYK674COxWKHJutMDWxLvoOW-OE3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041157906056-la49q34dtt2f1epnkhpkr95g6g4g23lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
